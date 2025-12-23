@@ -68,7 +68,7 @@ Nel testo della PR spiega:
 
 ## Valutazione
 
-Tutte le Pull Request verranno reviewate da Arkemis.
+Tutte le Pull Request verranno controllate da Arkemis.
 La correttezza della soluzione verrà confermata con un commento direttamente nella PR.
 
 Il vincitore verrà annunciato il 2 gennaio su LinkedIn.
