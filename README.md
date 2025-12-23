@@ -1,6 +1,6 @@
 # 🧩 Arkemis Python Challenge 2026
 
-<img width="2908" height="913" alt="Arkemis - Cover" src="https://github.com/user-attachments/assets/706e2095-6789-4de3-a5a0-9ef76df773ca" />
+<img width="2908" height="913" alt="newyear" src="https://github.com/user-attachments/assets/1b036098-1283-4b74-b91e-1eb957cea9ea" />
 
 ## Mancano 24 ore al 2026: sistema questo bug prima dell’anno nuovo
 
