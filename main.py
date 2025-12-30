@@ -20,5 +20,6 @@ for _ in range(MONTHS):
     total += monthly_budget
 
 print("Budget mensile:", monthly_budget)
+print("Boost iniziale: ", DIV_MONTH)
 print("Somma totale:  ", total)
 print("È davvero 2026.0?", total == BUDGET_2026)
